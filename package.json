@@ -1,0 +1,22 @@
+{
+  "name": "layer7-dstat",
+  "version": "1.0.0",
+  "description": "layer7dstat - @ProxiesPool",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "dstat",
+    "layer7",
+    "websocket",
+    "dashboard",
+    "cc-attack-monitor"
+  ],
+  "author": "layer7dstat",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
