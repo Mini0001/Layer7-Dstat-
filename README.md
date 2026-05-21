@@ -12,6 +12,7 @@
 </div>
 
 ---
+<img width="1280" height="674" alt="image" src="https://github.com/user-attachments/assets/fa0a6f7e-d649-4547-86c3-bd2ea3a7ae77" />
 
 ## 📖 项目简介 <a href="https://t.me/ProxiesPool" target="_blank"><img src="https://img.shields.io/badge/Telegram-@ProxiesPool-2CA5E0?style=flat-square&logo=telegram&logoColor=white" align="center" /></a>
 
